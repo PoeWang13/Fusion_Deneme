@@ -34,7 +34,8 @@ Network_Runner_Manager scripti içinde
         });
         Game_Manager.Instance.FindRunner();
     }
-    fonksiyonundaki 'PlayerCount = 2' satırındaki 2 rakamını değiştirerek istediğiniz rakamı belirleyebilirsiniz.
+    
+fonksiyonundaki 'PlayerCount = 2' satırındaki 2 rakamını değiştirerek istediğiniz rakamı belirleyebilirsiniz.
 
 # Lobby'e giriş
 Başkasının oyununa bağlanmak istiyorsanız, lobby listesindeki bir lobby'yi belirlemeniz ve JOIN butonuna tıklamanız yeterli. Eğer lobby'de yer varsa ve password doğruysa sizi oyuna bağlayacaktır.
